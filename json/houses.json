@@ -1,46 +1,88 @@
 {
     "houses" :[
-        {
+        {   
             "id": 1,
             "image": "https://fotos.imghs.net/mm-wp/998316/17521801323.998316/998316_17521801323_13_20211005185655259.jpg",
-            "price": "550.000",
+            "price": "725.000",
             "city": "Zona Platges (Borriana - Burriana)",
             "description": "SITUACIÓN: En zona residencial tranquila con bonitas vistas. Distancia a la playa: 5 minutos en coche."
-          },
-          {
+        },
+        {
             "id": 2,
             "image": "https://fotos.imghs.net/mm-wp/1005/736/1005_162857362736_1_2022070619075835674.jpg",
             "price": "228.000",
             "city": "Zona Platges (Borriana - Burriana)",
             "description": "Chalet con parcela de terreno y una antigüedad que data de 1.978."
-          },
-          {
+        },
+        {
             "id": 3,
             "image": "https://fotos.imghs.net/mm-wp/518862/42587330413.518862/518862_42587330413_84_20240312201648736.jpg",
             "price": "640.000",
             "city": "Zona Platges (Borriana - Burriana)",
             "description": "Espectacular chalet esquinero en zona de Puerto Burriana, todo de primeras calidades y diseño moderno."
-          },
-          {
+        },
+        {
             "id": 4,
             "image": "https://fotos.imghs.net/mm-wp/1005/799/1005_3487799_1_2022042020045394100.jpg",
             "price": "339.000",
             "city": "Las Atalayas-U.R.M.I.-Cerro-Mar (Peníscola - Peñíscola)",
             "description": "La distribucion se compone de recibidor-entrada + 3 dormitorios + 2 cuartos de baño + salon independiente + cocina independiente + terraza exterior con techo + jardin."
-          },
-          {
+        },
+        {
             "id": 5,
             "image": "https://fotos.imghs.net/mm-wp/1087/301/1087_UVC647-104301_1_2024043005045613073.jpeg",
             "price": "229.000",
             "city": "Alcora",
             "description": "CASA DE 218 m2, SITUADA ENTRE EL EMBALSE DE MARÍA CRISTINA Y UNO DE LOS MAYORES PARQUES INDUSTRIALES DE LA CERÁMICA, CONSTRUIDA CON EXCELENTES MATERIALES SOBRE UN TERRENO DE 1.476 m2"
-          },
-          {
+        },
+        {
             "id": 6,
             "city": "Centre (Orpesa - Oropesa del Mar)",
             "image": "https://img.freepik.com/fotos-premium/primer-plano-gatito-sombrero-sombrel-generativo-ai_771703-2536.jpg",
             "price": "2.300.000",
             "description": "Disfrutar de una parcela totalmente plana y, además, de vistas abiertas sobre el mar y sobre un parque natural de montaña es una idea que se antoja imposible, pero no lo es, en esta vivienda se conjugan todas estas virtudes."
-          }
+        },
+        {   
+            "id": 1,
+            "image": "https://fotos.imghs.net/mm-wp/998316/17521801323.998316/998316_17521801323_13_20211005185655259.jpg",
+            "price": "725.000",
+            "city": "Zona Platges (Borriana - Burriana)",
+            "description": "SITUACIÓN: En zona residencial tranquila con bonitas vistas. Distancia a la playa: 5 minutos en coche."
+        },
+        {
+            "id": 2,
+            "image": "https://fotos.imghs.net/mm-wp/1005/736/1005_162857362736_1_2022070619075835674.jpg",
+            "price": "228.000",
+            "city": "Zona Platges (Borriana - Burriana)",
+            "description": "Chalet con parcela de terreno y una antigüedad que data de 1.978."
+        },
+        {
+            "id": 3,
+            "image": "https://fotos.imghs.net/mm-wp/518862/42587330413.518862/518862_42587330413_84_20240312201648736.jpg",
+            "price": "640.000",
+            "city": "Zona Platges (Borriana - Burriana)",
+            "description": "Espectacular chalet esquinero en zona de Puerto Burriana, todo de primeras calidades y diseño moderno."
+        },
+        {
+            "id": 4,
+            "image": "https://fotos.imghs.net/mm-wp/1005/799/1005_3487799_1_2022042020045394100.jpg",
+            "price": "339.000",
+            "city": "Las Atalayas-U.R.M.I.-Cerro-Mar (Peníscola - Peñíscola)",
+            "description": "La distribucion se compone de recibidor-entrada + 3 dormitorios + 2 cuartos de baño + salon independiente + cocina independiente + terraza exterior con techo + jardin."
+        },
+        {
+            "id": 5,
+            "image": "https://fotos.imghs.net/mm-wp/1087/301/1087_UVC647-104301_1_2024043005045613073.jpeg",
+            "price": "229.000",
+            "city": "Alcora",
+            "description": "CASA DE 218 m2, SITUADA ENTRE EL EMBALSE DE MARÍA CRISTINA Y UNO DE LOS MAYORES PARQUES INDUSTRIALES DE LA CERÁMICA, CONSTRUIDA CON EXCELENTES MATERIALES SOBRE UN TERRENO DE 1.476 m2"
+        },
+        {
+            "id": 6,
+            "city": "Centre (Orpesa - Oropesa del Mar)",
+            "image": "https://img.freepik.com/fotos-premium/primer-plano-gatito-sombrero-sombrel-generativo-ai_771703-2536.jpg",
+            "price": "2.300.000",
+            "description": "Disfrutar de una parcela totalmente plana y, además, de vistas abiertas sobre el mar y sobre un parque natural de montaña es una idea que se antoja imposible, pero no lo es, en esta vivienda se conjugan todas estas virtudes."
+        }
     ]
 }
