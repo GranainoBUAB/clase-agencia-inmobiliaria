@@ -1,4 +1,4 @@
-const requestURL = '../json/houses.json';
+const requestURL = './json/houses.json';
 
 
 async function fetchHousesJson(){
