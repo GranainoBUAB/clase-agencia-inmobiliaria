@@ -1,0 +1,17 @@
+{
+    "name": "laagenciainmobiliaria",
+    "version": "1.0.0",
+    "description": "laAgenciaInmobiliaria",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "*"
+    },
+    "devDependencies": {
+        "jest": "*"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jose Miguel Quesada",
+    "license": "ISC"
+}
